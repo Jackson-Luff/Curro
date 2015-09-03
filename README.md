@@ -4,7 +4,7 @@ A nature based puzzle platformer where you play as a Satyr named 'Curro'. Charm 
 Unreal Engine 4 ver 4.9.0
 
 #When committing:
-Delete 'Config', 'Content' and every folder in 'Saved' EXCEPT 'Config'
+Delete 'Config', 'Intermediate' and every folder in 'Saved' EXCEPT 'Config'
 
 #EMERGENCY (Inputs): 
 If somehow you deleted Config from the Saved folder, and cannot retrieve it do the following:
